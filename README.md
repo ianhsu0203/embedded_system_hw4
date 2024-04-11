@@ -4,7 +4,7 @@ This project demonstrates the implementation of BLE services for heart rate moni
 
 #### Author
 - Department: EE3
-- Name: Chen-YU, HSU
+- Name: Chen-Yu, HSU
 - ID: B10502139
 
 ## Prerequisites
