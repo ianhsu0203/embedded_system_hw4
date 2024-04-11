@@ -51,7 +51,7 @@ This project demonstrates the implementation of BLE services for heart rate moni
 
 3. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourUsername/embedded_system_hw4.git
+   git clone https://github.com/ianhsu0203/embedded_system_hw4.git
    cd embedded_system_hw4
 
 ## Running the BLE Services
@@ -95,11 +95,6 @@ You should observe the following outputs displayed in the console of the Raspber
 - **Script Errors:**
   - Ensure that all dependencies, particularly the Bluepy library and Git, are correctly installed on the Raspberry Pi. Run `pip3 list` and `git --version` to verify their presence.
   - Make sure the Python script (`scanner.py`) is error-free and correctly handling BLE operations.
-
-## Maintenance and Updates
-
-- Regularly update the firmware on the Mbed device and the software on the Raspberry Pi to ensure compatibility and the smooth running of services.
-- Monitor the system for any irregularities in service performance or unexpected behaviors. Address these issues promptly to maintain system integrity.
 
 ## Additional Resources
 
